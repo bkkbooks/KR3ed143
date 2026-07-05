@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ed143_000.yaml, hash: 'sha256:b5f601f25204c9e43d539d095a8984fa564d212a3b05c666390596e77cdf2cf1'}
+  - {seq: 0, filename: KR3ed143_000.yaml, hash: 'sha256:51b18cf1bca038392d9a01c47a00e6b22545cb077416903a06344b2766f412e6'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ed143_000.markers.yaml, hash: 'sha256:58cbb785320c66d676f354678eb8be7b71a87985acc10aa7dedf5f2151afa8c9'}
+  - {seq: 0, role: markers, filename: assets/KR3ed143_000.markers.yaml, hash: 'sha256:41a5f4736f6f870f80cc0460977f832b677e316e953c3c98a6dda8d3466c1667'}
 table_of_contents:
 - ref:
     seq: 0
@@ -1231,7 +1231,4 @@ table_of_contents:
   label: 夢遺
   type: section
   level: 1
-hash: sha256:de8ee5dc819662967cd55b7d4e273a13a875ee2a731c8b59780ebeb6d690bf3f
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:d594fdbb7eb0af2ae32fd3b4b98cfda46f6a58406dd84cf53ee5a136812bc83f
