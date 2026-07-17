@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3ed143_000.yaml, hash: 'sha256:5e183d928d79a40d4455c449246c6223aeb70201008a7754f8aaa9003263bd3e'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ed143_000.markers.yaml, hash: 'sha256:456ac8a9471a0dabf0124594f0e46c11c895af27da7f8aeddf1b699afa20f267'}
+  - {seq: 0, role: markers, filename: assets/KR3ed143_000.markers.yaml, hash: 'sha256:440a91e01b7b543fb97e06c993a8ce8a84496ba685136d5ec04e8d503d86f95b'}
 table_of_contents:
 - ref:
     seq: 0
@@ -1231,7 +1231,7 @@ table_of_contents:
   label: 夢遺
   type: section
   level: 1
-hash: sha256:24b3045c2e378be7ec591942cd5d6456a5ef3bdf42a98f9b462e132195c4ad84
+hash: sha256:4b7791da715935c9c079790c3c70f47a590a808b3670036a6bc6faf0ca7e4751
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
